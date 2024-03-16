@@ -18,3 +18,12 @@ h2{
 #diploma{
     font-weight: bold;
 }
+p{
+    font-size: 15px;
+}
+li{
+    font-size: 15px;
+}
+#hyperlink{
+    color: black;
+}
